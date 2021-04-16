@@ -1,3 +1,4 @@
 # DragViewAndDragFrameLayout
-add DragView DragFrameLayout
-this is a simple demo,please correct me if there is anything wrong
+add DragView DragFrameLayout<br> 
+in this demo,there is a DragView and a DragFrameLayout.<br>
+please @ me if there is anything wrong
